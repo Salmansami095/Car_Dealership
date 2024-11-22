@@ -1,0 +1,23 @@
+# OS-specific files
+Thumbs.db      # Windows
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Backup files
+*.bak
+*.swp
+*.old
+*.orig
+
+# Other
+*.zip
+*.tar.gz
+*.7z
